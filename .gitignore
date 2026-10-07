@@ -1,0 +1,6 @@
+*.mat
+*.xlsx
+*.csv
+*.json
+data/
+__pycache__/
